@@ -15,4 +15,4 @@ Tutorial : How to build a Spring Boot Web Application from Scratch
 ** Watch it on Youtube **
 
 - Building it from scratch : https://www.youtube.com/watch?v=VS8W-tEqIiw
-- Building a CRUD : **TBU**
+- Building a CRUD Web Application with Spring Boot :https://www.youtube.com/watch?v=TcP5kFPq354
